@@ -1,6 +1,6 @@
 package com.trees.concepts;
 
-public class Node{
+/*public class Node{
 	int data;
 	Node left;
 	Node right;
@@ -9,7 +9,7 @@ public class Node{
 		this.data=data;
 		left=right=null;
 	}
-}
+}*/
 
 public class SameTree{
 	Node root1, root2;

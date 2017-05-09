@@ -19,7 +19,8 @@ public class Inheritance {
 		
 
 }
-public class Marks extends Inheritance{
+//Some errors exist in the class below need to fix it
+/*public class Marks extends Inheritance{
 	private int[] testScores;	
 	
 	Marks(String name, int rollnum) {
@@ -52,3 +53,4 @@ public class Marks extends Inheritance{
 	}
 
 }
+*/

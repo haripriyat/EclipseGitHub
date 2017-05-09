@@ -1,7 +1,7 @@
 package com.trees.concepts;
 
 
-	class TreeNode{
+/*	class TreeNode{
 		int data;
 		TreeNode right;
 		TreeNode left;
@@ -10,7 +10,7 @@ package com.trees.concepts;
 	public TreeNode(int data){
 		this.data=data;
 	}
-}
+}*/
 	class TreeTraversals{
 		static TreeNode root;
 	
